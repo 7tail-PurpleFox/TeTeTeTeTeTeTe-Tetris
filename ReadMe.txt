@@ -1,3 +1,8 @@
+.exe only for windows
+
+need pygame
+
+
 製作者 : 台南一中 - 7tail_Purple_Fox 、 鄭宇辰 、 周煒庭 、 李泓昇
 音樂來源 : https://youtu.be/jH1ooHogiXM
 按鈕音效來源 : https://youtu.be/h8y0JMVwdmM
