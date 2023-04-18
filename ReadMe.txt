@@ -2,6 +2,8 @@
 
 need pygame
 
+running clip : https://drive.google.com/file/d/18bZkU72VZtA92q-PhZFWr0DlMJPUJVtt/view?usp=share_link
+
 
 製作者 : 台南一中 - 7tail_PurpleFox 、 鄭宇辰 、 周煒庭 、 李泓昇
 音樂來源 : https://youtu.be/jH1ooHogiXM
