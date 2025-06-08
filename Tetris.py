@@ -14,7 +14,7 @@ GRAY = (30, 30, 30)
 BLUE = (0,0,255)
 
 size = (1200, 630)
-screen = pygame.display.set_mode(size)
+screen = pygame.display.set_mode(size,pygame.RESIZABLE)
 pygame.display.set_caption("TeTeTeTeTeTeTe Tetris!")
 icon = pygame.image.load(os.path.join('Tetris','img','blocks','block 1.png')).convert()
 pygame.display.set_icon(icon)
